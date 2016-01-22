@@ -2,3 +2,6 @@ Git Test Page
 Hello world!
 
 Jing Hao
+
+Although there are only about 12 students taking this class, I think it is quite interesting and useful. I enjoyed doing the assignment because I feel great after seeing my accomplishment on Github.
+Our instructer-- Mr. Mike-- is a pretty good person and he helps me a lot with my study.
